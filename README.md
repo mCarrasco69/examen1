@@ -1,2 +1,1 @@
-# CarritodeCompras-G3
-trabajo en grupo
+examen primer parcial .
